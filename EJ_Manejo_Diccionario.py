@@ -1,10 +1,4 @@
-"""
-Jacob Misael Rodríguez Morales 1907926
-Jahir Eduardo Alday Encinia 1974475
-H diccionario de clientes 5 de octubre
-"""
-
-
+"MANEJO DE DICCIONARIO"
 dataCliente=dict()
 x = 1
 while(x==1):
